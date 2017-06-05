@@ -1,0 +1,3 @@
+[submodule "PoshSecret"]
+	path = PoshSecret
+	url = https://github.com/fsackur/PoshSecret
